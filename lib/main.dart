@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:icon/icon__lastghost_icons.dart';
 
+import 'rias__sama_icons.dart';
+
 void main() {
   runApp(const Exapp());
 }
@@ -60,7 +62,7 @@ class Exapp extends StatelessWidget {
           ),
           Expanded(
             child: Icon(
-              Icon_Lastghost.geymsprofile,
+              Rias_Sama.menu,
               size: 40,
             ),
           ),
