@@ -46,6 +46,24 @@ class Exapp extends StatelessWidget {
               size: 40,
             ),
           ),
+          Expanded(
+            child: Icon(
+              Icon_Lastghost.like,
+              size: 40,
+            ),
+          ),
+          Expanded(
+            child: Icon(
+              Icon_Lastghost.friends,
+              size: 40,
+            ),
+          ),
+          Expanded(
+            child: Icon(
+              Icon_Lastghost.geymsprofile,
+              size: 40,
+            ),
+          ),
         ],
       )),
     );
