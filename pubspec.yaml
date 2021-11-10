@@ -77,6 +77,10 @@ flutter:
    - family: Icon_Lastghost
      fonts:
       - asset: Fonts/Icon_Lastghost.ttf
+
+   - family: Rias_Sama
+     fonts:
+      - asset: fonts/Rias_Sama.ttf
   #       - asset: fonts/Schyler-Italic.ttf
   #         style: italic
   #   - family: Trajan Pro
